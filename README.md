@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 * git clone https://github.com/your_username/academic-success-prediction.git
-* cd academic-success-prediction
+* cd Academic-Success
 
 ## Usage
 
